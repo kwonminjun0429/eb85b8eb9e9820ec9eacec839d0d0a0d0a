@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+  background: #f3f3f3;
+}
+
+.player {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  display: inline-block;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#playBtn {
+  background: #111111;
+  color: white;
+}
+
+#pauseBtn {
+  background: #111111;
+  color: white;
+}
